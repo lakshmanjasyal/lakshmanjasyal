@@ -6,7 +6,7 @@
 - 🔭 I’m working on various open-source projects.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [lakshmanjasyal@example.com](mailto:lakshmanjasyal77777@gmail.com)
+- 📫 How to reach me: [lakshmanjasyal77777@gmail.com](mailto:lakshmanjasyal77777@gmail.com)
 - ⚡ Fun fact: I love coding and exploring new technologies.
 
 ## Skills
